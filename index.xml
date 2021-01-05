@@ -14,11 +14,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
       <guid>https://OlgaBochkaryova.github.io/cookbook/</guid>
-      <description>Tools, packages and software for genomics
-assemblers genome browsers genome annotation Rast (paper)
-Prokka (paper)
-PaperBLAST (статья) - по сути обычный BLAST для белков, на выходе выдает публикации, в которых как-либо упоминались похожие на input последовательности. Очень удобный инструмент для: (1) функциональной аннотации гипотетических белков, (2) поиска различных экспериментальных данных об интересующем белке.
-databases alignments T-Coffee (paper) - комбайн для выравнивания различных аминокислотных и нуклеотидных последовательностей. Есть много разных режимов, можно комбинировать и применять алгоритмы из других программ (Clustal, Muscle, Mafft).</description>
+      <description>Tools, packages and software for genomics.
+The initiative was started in Gelfand lab. I thank all colleagues for their suggetions and comments.
+assemblers genome browser genome annotation 🔧 Tool Rast (paper) a fully automated service for annotating bacterial and archaeal genomes. The service identifies protein-encoding, rRNA and tRNA genes, assigns functions to the genes, predicts which subsystems are represented in the genome, uses this information to reconstruct the metabolic network and makes the output easily downloadable for the user.</description>
     </item>
     
     <item>
