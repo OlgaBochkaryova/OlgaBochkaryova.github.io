@@ -6,13 +6,13 @@
     <description>Recent content in My awesome title on O.B.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>olga.bochkaryova@gmail.com (Olga Bochkareva)</managingEditor>
-    <webMaster>olga.bochkaryova@gmail.com (Olga Bochkareva)</webMaster><atom:link href="https://OlgaBochkaryova.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>olga.bochkareva@ist.ac.at (Olga Bochkareva)</managingEditor>
+    <webMaster>olga.bochkareva@ist.ac.at (Olga Bochkareva)</webMaster><atom:link href="https://OlgaBochkaryova.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BioInf CookBook</title>
       <link>https://OlgaBochkaryova.github.io/cookbook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>olga.bochkaryova@gmail.com (Olga Bochkareva)</author>
+      <author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
       <guid>https://OlgaBochkaryova.github.io/cookbook/</guid>
       <description>Tools, packages and software for genomics
 assemblers genome browsers genome annotation Rast (paper)
@@ -25,7 +25,7 @@ databases alignments T-Coffee (paper) - комбайн для выравнива
       <title>Contact</title>
       <link>https://OlgaBochkaryova.github.io/contacts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>olga.bochkaryova@gmail.com (Olga Bochkareva)</author>
+      <author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
       <guid>https://OlgaBochkaryova.github.io/contacts/</guid>
       <description>e-mail: olga.bochkareva@ist.ac.at
 address: Am Campus 1, Klosterneuburg, Austria, 3400, IST Austria</description>
@@ -35,7 +35,7 @@ address: Am Campus 1, Klosterneuburg, Austria, 3400, IST Austria</description>
       <title>Research</title>
       <link>https://OlgaBochkaryova.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>olga.bochkaryova@gmail.com (Olga Bochkareva)</author>
+      <author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
       <guid>https://OlgaBochkaryova.github.io/research/</guid>
       <description>Current projects:  Genetic factors under biofilms formation in pathogenic E.coli Development of the bioinformatic toolkit for rearrangement analysis Role of gene paralogs in bacterial chromosome maintainance Origin of multipartite genomes Classification of ipaH effectors in Shigella  Collaborations:  Medical University of Vienna, Vienna, Austria. Genetic factors under biofilms formation in pathogenic E.coli (2020-present) ITMO University, Saint Petersburg, Russia. Development of the bioinformatic toolkit for rearrangement analysis (2020-present) Skryabin Institute of Biochemistry and Physiology of Microorganisms, Pushchino, Russia.</description>
     </item>
@@ -44,7 +44,7 @@ address: Am Campus 1, Klosterneuburg, Austria, 3400, IST Austria</description>
       <title>Students</title>
       <link>https://OlgaBochkaryova.github.io/students/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>olga.bochkaryova@gmail.com (Olga Bochkareva)</author>
+      <author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
       <guid>https://OlgaBochkaryova.github.io/students/</guid>
       <description>2020-2021  Ariadna Semenova, term paper, MSU Ivan Chernykh, term paper, MSU Tatiana Laskina, Master thesis, MSU  2019-2020  Yulia Yakovleva, term paper, Bioinformatics Institute Alexey Zabelkin, term paper, Bioinformatics Institute Kristina Perevoshchikova, term paper, MSU  2018-2019  Zaira Seferbekova, term paper, MSU (article) Moldir Zhiyenbayeva, Master thesis, HSE  2017-2018  Natalia Dranenko, bachelor thesis, MIPT  2016-2017  Anna Karan, term paper, MSU (article)  </description>
     </item>
@@ -53,7 +53,7 @@ address: Am Campus 1, Klosterneuburg, Austria, 3400, IST Austria</description>
       <title>Teaching</title>
       <link>https://OlgaBochkaryova.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>olga.bochkaryova@gmail.com (Olga Bochkareva)</author>
+      <author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
       <guid>https://OlgaBochkaryova.github.io/teaching/</guid>
       <description>Courses Comparative Genomics of Prokaryotes
 The course covers basic and advanced topics of comparative genomics necessary for deep analysis of bacterial genomes such as genomic databases, functional annotation and orthologs prediction, pangenomics, phylogenetic analysis, prediction of regulatory elements, annotation of genomic rearrangements, and ancestral reconstruction. The lectures include an overview of the biological processes and models, summary of popular approaches and software and scientific context and recent papers in the field.</description>
