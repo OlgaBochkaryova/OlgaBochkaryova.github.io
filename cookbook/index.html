@@ -70,10 +70,7 @@
                     <div id="text-table-of-contents" class="not-a-text-link">
                         <nav id="TableOfContents">
   <ul>
-    <li><a href="#assemblers">assemblers</a></li>
-    <li><a href="#genome-browser">genome browser</a></li>
     <li><a href="#genome-annotation">genome annotation</a></li>
-    <li><a href="#databases">databases</a></li>
     <li><a href="#alignments">alignments</a></li>
     <li><a href="#pangenomics">pangenomics</a></li>
     <li><a href="#whole-genome-alignment">whole-genome alignment</a></li>
@@ -93,13 +90,13 @@
     <h1>BioInf CookBook</h1>
     <p>Tools, packages and software for genomics.</p>
 <p>The initiative was started in Gelfand lab. I thank all colleagues for their suggetions and comments.</p>
-<h2 id="assemblers">assemblers</h2>
-<h2 id="genome-browser">genome browser</h2>
+<p>%## assemblers</p>
+<p>%## genome browser</p>
 <h2 id="genome-annotation">genome annotation</h2>
 <p><strong>🔧 Tool</strong> <a href="https://kbase.us/applist/apps/RAST_SDK/reannotate_microbial_genome/release?gclid=Cj0KCQjw59n8BRD2ARIsAAmgPmI2nvh6bDU_OkagT76hMuxDqv7jBRq2GXqc1u3LZqa-cwpUuOqcfrEaAvdUEALw_wcB">Rast</a> (<a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-9-75">paper</a>) a fully automated service for annotating bacterial and archaeal genomes. The service identifies protein-encoding, rRNA and tRNA genes, assigns functions to the genes, predicts which subsystems are represented in the genome, uses this information to reconstruct the metabolic network and makes the output easily downloadable for the user.</p>
 <p><strong>🔧 Tool</strong> <a href="https://github.com/tseemann/prokka">Prokka</a> (<a href="https://academic.oup.com/bioinformatics/article/30/14/2068/2390517">paper</a>) a command line software tool that can be installed on any Unix system. Prokka coordinates a suite of existing software tools to achieve a rich and reliable annotation of genomic bacterial sequences. Where possible, it will exploit multiple processing cores, and a typical bacterial genome can be annotated in ∼10 min on a quad core desktop computer. It is well suited to iterative models of sequence analysis and integration into genomic software pipelines.</p>
 <p><strong>🔧 Tool</strong> <a href="https://papers.genomics.lbl.gov/cgi-bin/litSearch.cgi">PaperBLAST</a> (<a href="https://msystems.asm.org/content/2/4/e00039-17">paper</a>) uses EuropePMC to search the full text of scientific articles for references to genes. PaperBLAST also takes advantage of curated resources (Swiss-Prot, GeneRIF, and EcoCyc) that link protein sequences to scientific articles. PaperBLAST’s database includes over 700,000 scientific articles that mention over 400,000 different proteins. Given a protein of interest, PaperBLAST quickly finds similar proteins that are discussed in the literature and presents snippets of text from relevant articles or from the curators.</p>
-<h2 id="databases">databases</h2>
+<p>%## databases</p>
 <h2 id="alignments">alignments</h2>
 <p><strong>🔧 Tool</strong> <a href="http://tcoffee.crg.cat/">T-Coffee</a> (<a href="http://tcoffee.crg.cat/">paper</a>) - a web server for the multiple sequence alignment of protein and RNA sequences using structural information and homology extension, includes different alignment models, such as MAFFT, MUSCLE and Kalign. Pro-Coffee is suiatable for alignment of promoter regions.</p>
 <p><strong>🔧 Tool</strong> <a href="https://bioweb.supagro.inra.fr/macse/">MASCE</a> - aligns coding NT sequences with respect to their AA translation while allowing NT sequences to contain multiple frameshifts and/or stop codons. MACSE is hence the first automatic solution to align protein-coding gene datasets containing non-functional sequences (pseudogenes) without disrupting the underlying codon structure. It has also proved useful in detecting undocumented frameshifts in public database sequences and in aligning next-generation sequencing reads/contigs against a reference coding sequence.</p>
@@ -111,7 +108,7 @@
 <p><strong>📄 Review</strong> Costa, Sávio &amp; Guimarães, Luís &amp; Silva, Artur &amp; Soares, Siomar &amp; Baraúna, Rafael. (2020). <a href="https://journals.sagepub.com/doi/full/10.1177/1177932220938064">First Steps in the Analysis of Prokaryotic Pan-Genomes</a>. Bioinformatics and Biology Insights. 14. 117793222093806. 10.1177/1177932220938064</p>
 <p><strong>📖 Book</strong> The Pangenome: Diversity, Dynamics and Evolution of Genomes. Editors: Tettelin, Hervé, Medini, Duccio (Eds.) (2020)</p>
 <h2 id="whole-genome-alignment">whole-genome alignment</h2>
-<p><strong>🔧 Tool</strong> <a href="%5Bpaper%5D(https://www.nature.com/articles/s41467-020-19777-8)">SibeliaZ</a> -  an algorithm for identifying collinear blocks in closely related genomes based on analysis of the de Bruijn graph, incorporated into a multiple whole-genome alignment pipeline.</p>
+<p><strong>🔧 Tool</strong> <a href="%5Bpaper%5D(https://www.nature.com/articles/s41467-020-19777-8)">SibeliaZ</a> -  an algorithm for identifying collinear blocks in closely related genomes based on analysis of the de Bruijn graph, incorporated into a multiple whole-genome alignment pipeline. Instruction how to construct synteny blocks with given length threshold <a href="https://github.com/ctlab/parallel-rearrangements/blob/master/BLOCKS-OBTAIN.md">here</a></p>
 <p><strong>🔧 Tool</strong> <a href="http://darlinglab.org/mauve/mauve.html">ProgressiveMauve</a> (<a href="https://www.ncbi.nlm.nih.gov/pubmed/20593022">paper</a>) is a system for constructing multiple genome alignments in the presence of large-scale evolutionary events such as rearrangement and inversion. The alignment display is organized into one horizontal “panel” per input genome sequence. Each genome’s panel contains the name of the genome sequence, a scale showing the sequence coordinates for that genome, and a single black horizontal center line. Colored block outlines appear above and possibly below the center line. Each of these block outlines surrounds a region of the genome sequence that aligned to part of another genome, and is presumably homologous and internally free from genomic rearrangement. However, the algorithm’s compute time scales cubically in the number of genomes to align, making it unsuitable for datasets containing more than 50-100 bacterial genomes.</p>
 <h2 id="phylogenetics">phylogenetics</h2>
 <p><strong>📄 Review</strong>: Kapli et al. <a href="https://pubmed.ncbi.nlm.nih.gov/32424311/">Phylogenetic tree building in the genomic age</a></p>
@@ -131,6 +128,7 @@
 <p><strong>🔧 Tool</strong> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7397055/">Overleaf</a> - a collaborative cloud-based LaTeX editor used for writing, editing and publishing scientific documents. It partners with a wide range of scientific publishers to provide official journal LaTeX templates, and direct submission links.</p>
 <h2 id="datasets">datasets</h2>
 <p><strong>💾 Data</strong> <a href="https://www.nature.com/articles/s41587-020-0603-3">A unified catalog of 204,938 reference genomes from the human gut microbiome</a>.</p>
+<p><strong>💾 Data</strong> <a href="https://github.com/zseferbekova/ShigellaProject">genomic data of 414 E.coli/Shigella genomes (full assemblies)</a>. The phylogenetic tree, alignments of common orthogroups, synteny blocks. <a href="https://www.biorxiv.org/content/10.1101/2020.06.12.147751v1.abstract">Citation</a></p>
 
 </div>
 <br/>
