@@ -16,8 +16,6 @@
       <guid>https://OlgaBochkaryova.github.io/cookbook/</guid>
       <description>Tools, packages and software for genomics.
 The initiative was started in Gelfand lab. I thank all colleagues for their suggetions and comments.
-%## assemblers
-%## genome browser
 genome annotation 🔧 Tool Rast (paper) a fully automated service for annotating bacterial and archaeal genomes. The service identifies protein-encoding, rRNA and tRNA genes, assigns functions to the genes, predicts which subsystems are represented in the genome, uses this information to reconstruct the metabolic network and makes the output easily downloadable for the user.</description>
     </item>
     
