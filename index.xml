@@ -17,7 +17,7 @@
       <description>Tools, packages and software for bacterial genomics.
 The initiative was started in Gelfand lab. I thank all colleagues for their suggetions and comments.
 assemblers 🔧 Tool SPAdes assembler (paper) an assembly toolkit containing various assembly pipelines.
-genome annotation 📶 WebTool Rast (paper) a fully automated service for annotating bacterial and archaeal genomes. The service identifies protein-encoding, rRNA and tRNA genes, assigns functions to the genes, predicts which subsystems are represented in the genome, uses this information to reconstruct the metabolic network and makes the output easily downloadable for the user.</description>
+genome annotation 🌍 WebTool Rast (paper) a fully automated service for annotating bacterial and archaeal genomes. The service identifies protein-encoding, rRNA and tRNA genes, assigns functions to the genes, predicts which subsystems are represented in the genome, uses this information to reconstruct the metabolic network and makes the output easily downloadable for the user.</description>
     </item>
     
     <item>
