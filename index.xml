@@ -40,6 +40,18 @@ address: Am Campus 1, Klosterneuburg, Austria, 3400, IST Austria</description>
     </item>
     
     <item>
+      <title>Supervised students</title>
+      <link>https://OlgaBochkaryova.github.io/students/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
+      <guid>https://OlgaBochkaryova.github.io/students/</guid>
+      <description>Master: 2019 Moldir Zhiyenbayeva, HSE, Moscow, Russia, in English
+Bachelor: **2018v Natalia Dranenko, MIPT, Moscow, Russia, in Russian
+Term papers: 2020 Yulia Yakovleva Bioinformatics Institute, Moscow, Russia paper 2020 Alexey Zabelkin Bioinformatics Institute, Moscow, Russia paper 2020 Kristina Perevoshchikova, Moscow State University, Moscow, Russia 2019 Zaira Seferbekova, Moscow State University, Moscow, Russia (paper) 2017 Anna Karan, Moscow State University, Moscow, Russia (paper)
+Ongoing Ariadna Semenova, term paper, Moscow State University, Moscow, Russia Ivan Chernykh, term paper, Moscow State University, Moscow, Russia Tatiana Laskina, Master thesis, Moscow State University, Moscow, Russia</description>
+    </item>
+    
+    <item>
       <title>Teaching</title>
       <link>https://OlgaBochkaryova.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -47,15 +59,6 @@ address: Am Campus 1, Klosterneuburg, Austria, 3400, IST Austria</description>
       <guid>https://OlgaBochkaryova.github.io/teaching/</guid>
       <description>Courses Comparative Genomics of Prokaryotes
 The course covers basic and advanced topics of comparative genomics necessary for deep analysis of bacterial genomes such as genomic databases, functional annotation and orthologs prediction, pangenomics, phylogenetic analysis, prediction of regulatory elements, annotation of genomic rearrangements, and ancestral reconstruction. The lectures include an overview of the biological processes and models, summary of popular approaches and software and scientific context and recent papers in the field.</description>
-    </item>
-    
-    <item>
-      <title>Team</title>
-      <link>https://OlgaBochkaryova.github.io/students/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
-      <guid>https://OlgaBochkaryova.github.io/students/</guid>
-      <description>2020-2021  Ariadna Semenova, term paper, MSU Ivan Chernykh, term paper, MSU Tatiana Laskina, Master thesis, MSU  2019-2020  Yulia Yakovleva, term paper, Bioinformatics Institute article Alexey Zabelkin, term paper, Bioinformatics Institute article Kristina Perevoshchikova, term paper, MSU  2018-2019  Zaira Seferbekova, term paper, MSU (article) Moldir Zhiyenbayeva, Master thesis, HSE  2017-2018  Natalia Dranenko, bachelor thesis, MIPT  2016-2017  Anna Karan, term paper, MSU (article)  </description>
     </item>
     
   </channel>
