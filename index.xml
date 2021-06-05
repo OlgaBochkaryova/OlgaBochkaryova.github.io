@@ -14,7 +14,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
       <guid>https://OlgaBochkaryova.github.io/cookbook/</guid>
-      <description>Tools, packages and software for bacterial genomics.
+      <description>Tools and packages for bacterial genomics.
 The initiative was started in Gelfand lab. I thank all colleagues for their suggetions and comments.
 databases 💾 Data NCBI - a series of databases relevant to biotechnology and biomedicine and is an important resource for bioinformatics tools and services. Major databases include GenBank for DNA sequences and PubMed, a bibliographic database for biomedical literature. Other databases include the NCBI Epigenomics database. All these databases are available online through the Entrez search engine.</description>
     </item>
@@ -36,7 +36,7 @@ address: Am Campus 1, Klosterneuburg, Austria, 3400, IST Austria</description>
       <author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
       <guid>https://OlgaBochkaryova.github.io/research/</guid>
       <description>Current projects:  Genetic factors under biofilms formation in pathogenic E.coli Development of the bioinformatic toolkit for rearrangement analysis Role of gene paralogs in bacterial chromosome maintainance Evolution of multipartite genomes Classification of ipaH effectors in Shigella  Publications: [ # &amp;ndash; equal contribution. ]
- Natalia Dranenko, Maria Tutukina, Olga Bochkareva Classification of ipaH genes family in pathogenic Escherichia In preparation Alexey Zabelkin, Yulia Yakovleva, Olga Bochkareva#, Nikita Alexeev#. PaReBrick: PArallel REarrangements and BReakpoints identification toolkit.</description>
+ Natalia Dranenko, Maria Tutukina, Olga Bochkareva Classification of ipaH effectors in pathogenic Escherichia In preparation Alexey Zabelkin, Yulia Yakovleva, Olga Bochkareva#, Nikita Alexeev#. PaReBrick: PArallel REarrangements and BReakpoints identification toolkit.</description>
     </item>
     
     <item>
@@ -50,9 +50,9 @@ address: Am Campus 1, Klosterneuburg, Austria, 3400, IST Austria</description>
 2020 Kristina Perevoshchikova, Moscow State University, Moscow, Russia
 2019 Zaira Seferbekova, Moscow State University, Moscow, Russia (paper)
 2017 Anna Karan, Moscow State University, Moscow, Russia (paper)
-Master: 2019 Moldir Zhiyenbayeva, HSE, Moscow, Russia, in English
-Bachelor: 2018 Natalia Dranenko, MIPT, Moscow, Russia, in Russian
-Ongoing  Ariadna Semenova, term paper, Moscow State University, Moscow, Russia Ivan Chernykh, term paper, Moscow State University, Moscow, Russia Tatiana Laskina, Master thesis, Moscow State University, Moscow, Russia  </description>
+Masters: 2019 Moldir Zhiyenbayeva, HSE, Moscow, Russia, in English
+Bachelors: 2018 Natalia Dranenko, MIPT, Moscow, Russia, in Russian
+Ongoing:  Ariadna Semenova, term paper, Moscow State University, Moscow, Russia Ivan Chernykh, term paper, Moscow State University, Moscow, Russia Tatiana Laskina, Master thesis, Moscow State University, Moscow, Russia  </description>
     </item>
     
     <item>
