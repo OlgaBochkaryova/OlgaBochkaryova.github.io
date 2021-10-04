@@ -37,7 +37,7 @@ ORCID: 0000-0003-1006-6639</description>
       <author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
       <guid>https://OlgaBochkaryova.github.io/publications/</guid>
       <description>[ # &amp;ndash; equal contribution. ]
-Preprints / papers in preparation  Natalia Dranenko, Maria Tutukina, Mikhail Gelfand, Fyodor Kondrashov Olga Bochkareva Comparative genomic of ipaH effectors of pathogenic Escherichia from different hosts In preparation  Peer-revierew publications  Alexey Zabelkin, Yulia Yakovleva, Olga Bochkareva#, Nikita Alexeev#. PaReBrick: PArallel REarrangements and BReaks identification toolkit. Bioinformatics 2021 October 03 DOI Zaira Seferbekova, Alexey Zabelkin, Yulia Yakovleva, Robert Afasizhev, Natalia O. Dranenko, Nikita Alexeev, Mikhail S Gelfand, Olga Bochkareva.</description>
+Peer-revierew publications  Alexey Zabelkin, Yulia Yakovleva, Olga Bochkareva#, Nikita Alexeev#. PaReBrick: PArallel REarrangements and BReaks identification toolkit. Bioinformatics 2021 October 03 DOI Zaira Seferbekova, Alexey Zabelkin, Yulia Yakovleva, Robert Afasizhev, Natalia O. Dranenko, Nikita Alexeev, Mikhail S Gelfand, Olga Bochkareva. High rates of genome rearrangements and pathogenicity of Shigella spp. Frontiers Microbiology 2021 Apr 12; 12:831. (DOI) Olga Sigalova, Andrei V Chaplin, Olga O Bochkareva, Pavel V Shelyakin, Vsevolod A Filaretov, Evgeny E Akkuratov, Valentina Burskaya, Mikhail S Gelfand.</description>
     </item>
     
     <item>
@@ -46,8 +46,9 @@ Preprints / papers in preparation  Natalia Dranenko, Maria Tutukina, Mikhail Gel
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
       <guid>https://OlgaBochkaryova.github.io/research/</guid>
-      <description>Development of the bioinformatic toolkit for detection of large-scale variants in bacteria collaboration with Dr. Nikita Alexeyev, Russia; Prof. Olga Kalinina, Germany; Prof. Maria Zimmermann-Kogadeeva, Germany
- The project aims to develop bioinformatic software to detect large-sclae genomic variants in bacterial genomes and linked them with bacterial phenotypes. We have developed a strategy for extract information form genomic data to detect parallel rearrangements in bacterial populations. The approach will be used for the study of rapid emergence of new bacterial phenotypes, understanding the molecular basis of antibiotic resistance mechanisms and formation of small colony variants, and the study of the selective forces in genomic evolution underlying complex phenotypes.</description>
+      <description>A short description of the projects I have initiated and\or supervised:
+Development of the bioinformatic toolkit for detection of large-scale variants in bacteria collaboration with Dr. Nikita Alexeyev, Russia; Prof. Olga Kalinina, Germany; Prof. Maria Zimmermann-Kogadeeva, Germany
+ The project aims to develop bioinformatic software to detect large-sclae genomic variants in bacterial genomes and linked them with bacterial phenotypes. We have developed a strategy for extract information form genomic data to detect parallel rearrangements in bacterial populations.</description>
     </item>
     
     <item>
