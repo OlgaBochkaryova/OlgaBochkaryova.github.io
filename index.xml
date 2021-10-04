@@ -9,13 +9,12 @@
     <managingEditor>olga.bochkareva@ist.ac.at (Olga Bochkareva)</managingEditor>
     <webMaster>olga.bochkareva@ist.ac.at (Olga Bochkareva)</webMaster><atom:link href="https://OlgaBochkaryova.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>BioInf CookBook</title>
+      <title>Collection of tools and packages for bacterial genomics</title>
       <link>https://OlgaBochkaryova.github.io/cookbook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
       <guid>https://OlgaBochkaryova.github.io/cookbook/</guid>
-      <description>Tools and packages for bacterial genomics.
-The initiative was started in Gelfand lab. I thank all colleagues for their suggetions and comments.
+      <description>The initiative was started in Gelfand lab. I thank all colleagues for their suggetions and comments.
 databases 💾 Data NCBI - a series of databases relevant to biotechnology and biomedicine and is an important resource for bioinformatics tools and services. Major databases include GenBank for DNA sequences and PubMed, a bibliographic database for biomedical literature. Other databases include the NCBI Epigenomics database. All these databases are available online through the Entrez search engine.</description>
     </item>
     
@@ -28,7 +27,17 @@ databases 💾 Data NCBI - a series of databases relevant to biotechnology and b
       <description>e-mail: olga.bochkareva@ist.ac.at
 address: Am Campus 1, Klosterneuburg, Austria, 3400, IST Austria
 Web page: current lab
-List of all publications: https://orcid.org/0000-0003-1006-6639</description>
+ORCID: 0000-0003-1006-6639</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://OlgaBochkaryova.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
+      <guid>https://OlgaBochkaryova.github.io/publications/</guid>
+      <description>[ # &amp;ndash; equal contribution. ]
+Preprints / papers in preparation  Natalia Dranenko, Maria Tutukina, Mikhail Gelfand, Fyodor Kondrashov Olga Bochkareva Comparative genomic of ipaH effectors of pathogenic Escherichia from different hosts In preparation  Peer-revierew publications  Alexey Zabelkin, Yulia Yakovleva, Olga Bochkareva#, Nikita Alexeev#. PaReBrick: PArallel REarrangements and BReaks identification toolkit. Bioinformatics 2021 October 03 DOI Zaira Seferbekova, Alexey Zabelkin, Yulia Yakovleva, Robert Afasizhev, Natalia O. Dranenko, Nikita Alexeev, Mikhail S Gelfand, Olga Bochkareva.</description>
     </item>
     
     <item>
@@ -37,8 +46,8 @@ List of all publications: https://orcid.org/0000-0003-1006-6639</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
       <guid>https://OlgaBochkaryova.github.io/research/</guid>
-      <description>Current projects:  Genetic factors under biofilms formation in pathogenic E.coli Development of the bioinformatic toolkit for rearrangement analysis Role of gene paralogs in bacterial chromosome maintainance Evolution of multipartite genomes Classification of ipaH effectors in Shigella  Publications: [ # &amp;ndash; equal contribution. ]
- Natalia Dranenko, Maria Tutukina, Mikhail Gelfand, Olga Bochkareva Classification of ipaH effectors in pathogenic Escherichia In preparation Alexey Zabelkin, Yulia Yakovleva, Olga Bochkareva#, Nikita Alexeev#.</description>
+      <description>Development of the bioinformatic toolkit for detection of large-scale variants in bacteria collaboration with Dr. Nikita Alexeyev, Russia; Prof. Olga Kalinina, Germany; Prof. Maria Zimmermann-Kogadeeva, Germany
+ The project aims to develop bioinformatic software to detect large-sclae genomic variants in bacterial genomes and linked them with bacterial phenotypes. We have developed a strategy for extract information form genomic data to detect parallel rearrangements in bacterial populations. The approach will be used for the study of rapid emergence of new bacterial phenotypes, understanding the molecular basis of antibiotic resistance mechanisms and formation of small colony variants, and the study of the selective forces in genomic evolution underlying complex phenotypes.</description>
     </item>
     
     <item>
