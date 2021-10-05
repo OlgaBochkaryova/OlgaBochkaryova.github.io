@@ -9,6 +9,21 @@
     <managingEditor>olga.bochkareva@ist.ac.at (Olga Bochkareva)</managingEditor>
     <webMaster>olga.bochkareva@ist.ac.at (Olga Bochkareva)</webMaster><atom:link href="https://OlgaBochkaryova.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>(Co-)Supervised students</title>
+      <link>https://OlgaBochkaryova.github.io/students/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
+      <guid>https://OlgaBochkaryova.github.io/students/</guid>
+      <description>Term papers: 2021 Ariadna Semenova, term paper, Moscow State University, Moscow, Russia conference paper
+2020 Yulia Yakovleva, Alexey Zabelkin, Bioinformatics Institute, Moscow, Russia paper
+2020 Kristina Perevoshchikova, Moscow State University, Moscow, Russia conference paper
+2019 Zaira Seferbekova, Moscow State University, Moscow, Russia (paper)
+2017 Anna Karan, Moscow State University, Moscow, Russia (paper)
+Master theses: 2019 Moldir Zhiyenbayeva, HSE, Moscow, Russia, in English
+Bachelor theses: 2018 Natalia Dranenko, MIPT, Moscow, Russia, in Russian</description>
+    </item>
+    
+    <item>
       <title>Collection of tools and packages for bacterial genomics</title>
       <link>https://OlgaBochkaryova.github.io/cookbook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -48,22 +63,6 @@ Peer-revierew publications  Alexey Zabelkin, Yulia Yakovleva, Olga Bochkareva#, 
       <guid>https://OlgaBochkaryova.github.io/research/</guid>
       <description>My research interests cover various topics of microbial genomics from development of new methodology and their application for medical purposes to fundamental questions of genome organization and evolution. Current projects I am working on are:
 Evolution of virulence factors in human-host and non-human-host invasive Escherichia  The project aims to describe composition and evolution of ipaH genes, effectors of Type 3 secretion system, in pathogens of different hosts. These genes are key factors of Shigella invasion that which are used for disease genotyping.</description>
-    </item>
-    
-    <item>
-      <title>Supervised students</title>
-      <link>https://OlgaBochkaryova.github.io/students/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
-      <guid>https://OlgaBochkaryova.github.io/students/</guid>
-      <description>Term papers: 2020 Yulia Yakovleva Bioinformatics Institute, Moscow, Russia paper
-2020 Alexey Zabelkin Bioinformatics Institute, Moscow, Russia paper
-2020 Kristina Perevoshchikova, Moscow State University, Moscow, Russia
-2019 Zaira Seferbekova, Moscow State University, Moscow, Russia (paper)
-2017 Anna Karan, Moscow State University, Moscow, Russia (paper)
-Masters: 2019 Moldir Zhiyenbayeva, HSE, Moscow, Russia, in English
-Bachelors: 2018 Natalia Dranenko, MIPT, Moscow, Russia, in Russian
-Ongoing:  Ariadna Semenova, term paper, Moscow State University, Moscow, Russia Ivan Chernykh, term paper, Moscow State University, Moscow, Russia Tatiana Laskina, Master thesis, Moscow State University, Moscow, Russia  </description>
     </item>
     
     <item>
