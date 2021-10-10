@@ -7,7 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>olga.bochkareva@ist.ac.at (Olga Bochkareva)</managingEditor>
-    <webMaster>olga.bochkareva@ist.ac.at (Olga Bochkareva)</webMaster><atom:link href="https://OlgaBochkaryova.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>olga.bochkareva@ist.ac.at (Olga Bochkareva)</webMaster>
+    
+	<atom:link href="https://OlgaBochkaryova.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>(Co-)Supervised students</title>
+      <link>https://OlgaBochkaryova.github.io/students/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
+      <guid>https://OlgaBochkaryova.github.io/students/</guid>
+      <description>Term papers: 2021 Ariadna Semenova Insertion sequences in B. mallei and their role in adaptation to intracellular lifestyle, term paper, Moscow State University, Moscow, Russia conference paper
+2020 Yulia Yakovleva, Alexey Zabelkin Development of the mathod for parallel rearrangements identification, Bioinformatics Institute, Moscow, Russia paper. Co-supervisor: Nikita Alexeyev.
+2020 Kristina Perevoshchikova Evolutionary benefits of bacterial genomes with chromids, Moscow, Russia conference paper
+2019 Zaira Seferbekova Impact of mobile elements into pathogenicity of Shigella Moscow State University, Moscow, Russia (paper)</description>
+    </item>
+    
     <item>
       <title>Collection of tools and packages for bacterial genomics</title>
       <link>https://OlgaBochkaryova.github.io/cookbook/</link>
@@ -27,7 +43,7 @@ databases 💾 Data NCBI - a series of databases relevant to biotechnology and b
       <description>e-mail: olga.bochkareva@ist.ac.at
 address: Am Campus 1, Klosterneuburg, Austria, 3400, IST Austria
 Web page: current lab
-ORCID: 0000-0003-1006-6639</description>
+ORCID: 0000-0003-1006-6639 (profile)</description>
     </item>
     
     <item>
@@ -37,7 +53,7 @@ ORCID: 0000-0003-1006-6639</description>
       <author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
       <guid>https://OlgaBochkaryova.github.io/publications/</guid>
       <description>[ # &amp;ndash; equal contribution. ]
-Peer-revierew publications  Alexey Zabelkin, Yulia Yakovleva, Olga Bochkareva#, Nikita Alexeev#. PaReBrick: PArallel REarrangements and BReaks identification toolkit. Bioinformatics 2021 October 03 DOI Zaira Seferbekova, Alexey Zabelkin, Yulia Yakovleva, Robert Afasizhev, Natalia O. Dranenko, Nikita Alexeev, Mikhail S Gelfand, Olga Bochkareva. High rates of genome rearrangements and pathogenicity of Shigella spp. Frontiers Microbiology 2021 Apr 12; 12:831. (DOI) Olga Sigalova, Andrei V Chaplin, Olga O Bochkareva, Pavel V Shelyakin, Vsevolod A Filaretov, Evgeny E Akkuratov, Valentina Burskaya, Mikhail S Gelfand.</description>
+Peer-reviewed publications  Alexey Zabelkin, Yulia Yakovleva, Olga Bochkareva#, Nikita Alexeev#. PaReBrick: PArallel REarrangements and BReaks identification toolkit. Bioinformatics 2021 October 03 DOI Zaira Seferbekova, Alexey Zabelkin, Yulia Yakovleva, Robert Afasizhev, Natalia O. Dranenko, Nikita Alexeev, Mikhail S Gelfand, Olga Bochkareva. High rates of genome rearrangements and pathogenicity of Shigella spp. Frontiers Microbiology 2021 Apr 12; 12:831. (DOI) Olga Sigalova, Andrei V Chaplin, Olga O Bochkareva, Pavel V Shelyakin, Vsevolod A Filaretov, Evgeny E Akkuratov, Valentina Burskaya, Mikhail S Gelfand.</description>
     </item>
     
     <item>
@@ -47,23 +63,8 @@ Peer-revierew publications  Alexey Zabelkin, Yulia Yakovleva, Olga Bochkareva#, 
       <author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
       <guid>https://OlgaBochkaryova.github.io/research/</guid>
       <description>My research interests cover various topics of microbial genomics from development of new methodology and their application for medical purposes to fundamental questions of genome organization and evolution. Current projects I am working on are:
-Evolution of virulence factors in human-host and non-human-host invasive Escherichia  The project aims to describe composition and evolution of ipaH genes, effectors of Type 3 secretion system, in pathogens of different hosts. These genes are key factors of Shigella invasion that which are used for disease genotyping.</description>
-    </item>
-    
-    <item>
-      <title>Supervised students</title>
-      <link>https://OlgaBochkaryova.github.io/students/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
-      <guid>https://OlgaBochkaryova.github.io/students/</guid>
-      <description>Term papers: 2020 Yulia Yakovleva Bioinformatics Institute, Moscow, Russia paper
-2020 Alexey Zabelkin Bioinformatics Institute, Moscow, Russia paper
-2020 Kristina Perevoshchikova, Moscow State University, Moscow, Russia
-2019 Zaira Seferbekova, Moscow State University, Moscow, Russia (paper)
-2017 Anna Karan, Moscow State University, Moscow, Russia (paper)
-Masters: 2019 Moldir Zhiyenbayeva, HSE, Moscow, Russia, in English
-Bachelors: 2018 Natalia Dranenko, MIPT, Moscow, Russia, in Russian
-Ongoing:  Ariadna Semenova, term paper, Moscow State University, Moscow, Russia Ivan Chernykh, term paper, Moscow State University, Moscow, Russia Tatiana Laskina, Master thesis, Moscow State University, Moscow, Russia  </description>
+Evolution of virulence factors in human-host and non-human-host invasive Escherichia 
+The project aims to describe composition and evolution of ipaH genes, effectors of Type 3 secretion system, in pathogens of different hosts. These genes are key factors of Shigella invasion that which are used for disease genotyping.</description>
     </item>
     
     <item>
@@ -72,7 +73,7 @@ Ongoing:  Ariadna Semenova, term paper, Moscow State University, Moscow, Russia 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
       <guid>https://OlgaBochkaryova.github.io/teaching/</guid>
-      <description>Bioinformatics Institute (St Petersburg, Russia) Term course &amp;lsquo;Comparative Genomics of Prokaryotes&amp;rsquo;
+      <description>Bioinformatics Institute (St Petersburg, Russia)   Term course &amp;lsquo;Comparative Genomics of Prokaryotes&amp;rsquo;
 The course covers basic and advanced topics of comparative genomics necessary for deep analysis of bacterial genomes such as genomic databases, functional annotation and orthologs prediction, pangenomics, phylogenetic analysis, prediction of regulatory elements, annotation of genomic rearrangements, and ancestral reconstruction. The lectures include an overview of the biological processes and models, summary of popular approaches and software and scientific context and recent papers in the field.</description>
     </item>
     
