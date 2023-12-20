@@ -7,70 +7,49 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>olga.bochkareva@ist.ac.at (Olga Bochkareva)</managingEditor>
-    <webMaster>olga.bochkareva@ist.ac.at (Olga Bochkareva)</webMaster><atom:link href="https://OlgaBochkaryova.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>olga.bochkareva@ist.ac.at (Olga Bochkareva)</webMaster>
+    <atom:link href="https://OlgaBochkaryova.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>(Co-)Supervised students</title>
       <link>https://OlgaBochkaryova.github.io/students/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
       <guid>https://OlgaBochkaryova.github.io/students/</guid>
-      <description>Term papers: 2021 Ariadna Semenova Insertion sequences in B. mallei and their role in adaptation to intracellular lifestyle, term paper, Moscow State University, Moscow, Russia conference paper
-2020 Yulia Yakovleva, Alexey Zabelkin Development of the mathod for parallel rearrangements identification, Bioinformatics Institute, Moscow, Russia paper. Co-supervisor: Nikita Alexeyev.
-2019, 2020 Kristina Perevoshchikova Evolutionary benefits of bacterial genomes with chromids, Moscow, Russia conference paper
-2019 Zaira Seferbekova Impact of mobile elements into pathogenicity of Shigella Moscow State University, Moscow, Russia (paper)</description>
+      <description>Term papers: 2021 Ariadna Semenova Insertion sequences in B. mallei and their role in adaptation to intracellular lifestyle, term paper, Moscow State University, Moscow, Russia conference paper&#xA;2020 Yulia Yakovleva, Alexey Zabelkin Development of the mathod for parallel rearrangements identification, Bioinformatics Institute, Moscow, Russia paper. Co-supervisor: Nikita Alexeyev.&#xA;2019, 2020 Kristina Perevoshchikova Evolutionary benefits of bacterial genomes with chromids, Moscow, Russia conference paper&#xA;2019 Zaira Seferbekova Impact of mobile elements into pathogenicity of Shigella Moscow State University, Moscow, Russia (paper)</description>
     </item>
-    
     <item>
       <title>Collection of tools and packages for bacterial genomics</title>
       <link>https://OlgaBochkaryova.github.io/cookbook/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
       <guid>https://OlgaBochkaryova.github.io/cookbook/</guid>
-      <description>The initiative was started in Gelfand lab. I thank all colleagues for their suggetions and comments.
-databases 💾 Data NCBI - a series of databases relevant to biotechnology and biomedicine and is an important resource for bioinformatics tools and services. Major databases include GenBank for DNA sequences and PubMed, a bibliographic database for biomedical literature. Other databases include the NCBI Epigenomics database. All these databases are available online through the Entrez search engine.</description>
+      <description>The initiative was started in Gelfand lab. I thank all colleagues for their suggetions and comments.&#xA;databases 💾 Data NCBI - a series of databases relevant to biotechnology and biomedicine and is an important resource for bioinformatics tools and services. Major databases include GenBank for DNA sequences and PubMed, a bibliographic database for biomedical literature. Other databases include the NCBI Epigenomics database. All these databases are available online through the Entrez search engine.</description>
     </item>
-    
     <item>
       <title>Contact</title>
       <link>https://OlgaBochkaryova.github.io/contacts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
       <guid>https://OlgaBochkaryova.github.io/contacts/</guid>
-      <description>e-mail: olga.bochkareva@univie.ac.at
-address: 1030 Faculty of Life Sciences, University of Vienna, Djerassiplatz 1, Vienna, Austria
-ORCID: 0000-0003-1006-6639 (profile)
-Twitter: o_bochkareva (profile)</description>
+      <description>e-mail: olga.bochkareva@univie.ac.at&#xA;address: 1030 Faculty of Life Sciences, University of Vienna, Djerassiplatz 1, Vienna, Austria&#xA;ORCID: 0000-0003-1006-6639 (profile)&#xA;Twitter: o_bochkareva (profile)</description>
     </item>
-    
     <item>
       <title>Publications</title>
       <link>https://OlgaBochkaryova.github.io/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
       <guid>https://OlgaBochkaryova.github.io/publications/</guid>
-      <description>[ # &amp;ndash; equal contribution. ]
-Peer-reviewed publications Maximilian Baumgartner, Rebecca Zirnbauer, Sabine Schlager, Daniel Mertens, Nikolaus Gasche, Barbara Sladek, Craig Herbold, Olga Bochkareva, Vera Emelianenko, Harald Vogelsang, Michaela Lang, Anton Klotz, Birgit Moik, Athanasios Makristathis, David Berry, Stefanie Dabsch, Vineeta Khare, Christoph Gasche. Atypical enteropathogenic E. coli are associated with disease activity in ulcerative colitis Gut Microbes 2022, Nov 22; 14(1):2143218 (DOI) Natalia O Dranenko, Maria Tutukina, Mikhail S. Gelfand, Fyodor Kondrashov, Olga O Bochkareva.</description>
+      <description>[ # &amp;ndash; equal contribution. ]&#xA;Peer-reviewed publications Alper Yurtseven, Sofia Buyanova, Amay A. Agrawal, Olga O. Bochkareva &amp;amp; Olga V. Kalinina. Machine learning and phylogenetic analysis improves predicting antibiotic resistance in M. tuberculosis BMC Microbiol 23, 404 (2023) (DOI) Maximilian Baumgartner, Rebecca Zirnbauer, Sabine Schlager, Daniel Mertens, Nikolaus Gasche, Barbara Sladek, Craig Herbold, Olga Bochkareva, Vera Emelianenko, Harald Vogelsang, Michaela Lang, Anton Klotz, Birgit Moik, Athanasios Makristathis, David Berry, Stefanie Dabsch, Vineeta Khare, Christoph Gasche.</description>
     </item>
-    
     <item>
       <title>Research</title>
       <link>https://OlgaBochkaryova.github.io/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
       <guid>https://OlgaBochkaryova.github.io/research/</guid>
-      <description>My research interests cover various topics of microbial genomics from development of new methodology and their application for medical purposes to fundamental questions of genome organization and evolution. Current projects I am working on are:
-Detecting the impact of large-scale genomic features on bacterial phenotypes The main goal of the project is to connect the structural variants with phenotypic changes and to understand the underlying molecular mechanisms connecting them. There are two main processes that generate the variability that can be leveraged to explore the genotype to phenotype connection: parallel adaptation to new environments (e.</description>
+      <description>My research interests cover various topics of microbial genomics from development of new methodology and their application for medical purposes to fundamental questions of genome organization and evolution. Current projects I am working on are:&#xA;Detecting the impact of large-scale genomic features on bacterial phenotypes The main goal of the project is to connect the structural variants with phenotypic changes and to understand the underlying molecular mechanisms connecting them. There are two main processes that generate the variability that can be leveraged to explore the genotype to phenotype connection: parallel adaptation to new environments (e.</description>
     </item>
-    
     <item>
       <title>Teaching</title>
       <link>https://OlgaBochkaryova.github.io/teaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
       <guid>https://OlgaBochkaryova.github.io/teaching/</guid>
-      <description>Bioinformatics Institute (St Petersburg, Russia) Term course &amp;lsquo;Comparative Genomics of Prokaryotes&amp;rsquo;
-The course covers basic and advanced topics of comparative genomics necessary for deep analysis of bacterial genomes such as genomic databases, functional annotation and orthologs prediction, pangenomics, phylogenetic analysis, prediction of regulatory elements, annotation of genomic rearrangements, and ancestral reconstruction. The lectures include an overview of the biological processes and models, summary of popular approaches and software and scientific context and recent papers in the field.</description>
+      <description>Bioinformatics Institute (St Petersburg, Russia) Term course &amp;lsquo;Comparative Genomics of Prokaryotes&amp;rsquo;&#xA;The course covers basic and advanced topics of comparative genomics necessary for deep analysis of bacterial genomes such as genomic databases, functional annotation and orthologs prediction, pangenomics, phylogenetic analysis, prediction of regulatory elements, annotation of genomic rearrangements, and ancestral reconstruction. The lectures include an overview of the biological processes and models, summary of popular approaches and software and scientific context and recent papers in the field.</description>
     </item>
-    
   </channel>
 </rss>
