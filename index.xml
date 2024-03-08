@@ -10,13 +10,6 @@
     <webMaster>olga.bochkareva@ist.ac.at (Olga Bochkareva)</webMaster>
     <atom:link href="https://OlgaBochkaryova.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>(Co-)Supervised students</title>
-      <link>https://OlgaBochkaryova.github.io/students/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
-      <guid>https://OlgaBochkaryova.github.io/students/</guid>
-      <description>Term papers: 2021 Ariadna Semenova Insertion sequences in B. mallei and their role in adaptation to intracellular lifestyle, term paper, Moscow State University, Moscow, Russia conference paper&#xA;2020 Yulia Yakovleva, Alexey Zabelkin Development of the mathod for parallel rearrangements identification, Bioinformatics Institute, Moscow, Russia paper. Co-supervisor: Nikita Alexeyev.&#xA;2019, 2020 Kristina Perevoshchikova Evolutionary benefits of bacterial genomes with chromids, Moscow, Russia conference paper&#xA;2019 Zaira Seferbekova Impact of mobile elements into pathogenicity of Shigella Moscow State University, Moscow, Russia (paper)</description>
-    </item>
-    <item>
       <title>Collection of tools and packages for bacterial genomics</title>
       <link>https://OlgaBochkaryova.github.io/cookbook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
@@ -43,6 +36,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
       <guid>https://OlgaBochkaryova.github.io/research/</guid>
       <description>My research interests cover various topics of microbial genomics from development of new methodology and their application for medical purposes to fundamental questions of genome organization and evolution. Current projects I am working on are:&#xA;Detecting the impact of large-scale genomic features on bacterial phenotypes The main goal of the project is to connect the structural variants with phenotypic changes and to understand the underlying molecular mechanisms connecting them. There are two main processes that generate the variability that can be leveraged to explore the genotype to phenotype connection: parallel adaptation to new environments (e.</description>
+    </item>
+    <item>
+      <title>Supervised students</title>
+      <link>https://OlgaBochkaryova.github.io/students/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
+      <guid>https://OlgaBochkaryova.github.io/students/</guid>
+      <description>Term papers: 2023 Bogdan Sotnikov, Valeria Rubinova Conservation of start codons in bacterial gene families. Bioinformatics Institute, St. Petersburg, Russia&#xA;2023 Ekaterina Kolodyazhnaya Identification of new mechanisms of phase variation in bacteria. Moscow State University, Moscow, Russia&#xA;2021 Ariadna Semenova Insertion sequences in B. mallei and their role in adaptation to intracellular lifestyle. Moscow State University, Moscow, Russia conference paper&#xA;2020 Yulia Yakovleva, Alexey Zabelkin Development of the mathod for parallel rearrangements identification.</description>
     </item>
     <item>
       <title>Teaching</title>
