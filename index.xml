@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My awesome title on O.B.</title>
+    <title>Bochkareva group on O.B.</title>
     <link>https://OlgaBochkaryova.github.io/</link>
-    <description>Recent content in My awesome title on O.B.</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Bochkareva group on O.B.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>olga.bochkareva@ist.ac.at (Olga Bochkareva)</managingEditor>
     <webMaster>olga.bochkareva@ist.ac.at (Olga Bochkareva)</webMaster>
