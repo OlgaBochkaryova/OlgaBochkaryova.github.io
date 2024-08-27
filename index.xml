@@ -18,31 +18,10 @@
     </item>
     <item>
       <title></title>
-      <link>https://OlgaBochkaryova.github.io/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
-      <guid>https://OlgaBochkaryova.github.io/publications/</guid>
-      <description>title: &amp;ldquo;Publications&amp;rdquo; [ # &amp;ndash; equal contribution. ]&#xA;Peer-reviewed publications Alper Yurtseven, Sofia Buyanova, Amay A. Agrawal, Olga O. Bochkareva &amp;amp; Olga V. Kalinina. Machine learning and phylogenetic analysis improves predicting antibiotic resistance in M. tuberculosis BMC Microbiol 23, 404 (2023) (DOI) Maximilian Baumgartner, Rebecca Zirnbauer, Sabine Schlager, Daniel Mertens, Nikolaus Gasche, Barbara Sladek, Craig Herbold, Olga Bochkareva, Vera Emelianenko, Harald Vogelsang, Michaela Lang, Anton Klotz, Birgit Moik, Athanasios Makristathis, David Berry, Stefanie Dabsch, Vineeta Khare, Christoph Gasche.</description>
-    </item>
-    <item>
-      <title></title>
       <link>https://OlgaBochkaryova.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
       <guid>https://OlgaBochkaryova.github.io/research/</guid>
       <description>title: &amp;ldquo;Research&amp;rdquo; My research interests cover various topics of microbial genomics from development of new methodology and their application for medical purposes to fundamental questions of genome organization and evolution. Current projects I am working on are:&#xA;Detecting the impact of large-scale genomic features on bacterial phenotypes The main goal of the project is to connect the structural variants with phenotypic changes and to understand the underlying molecular mechanisms connecting them.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://OlgaBochkaryova.github.io/students/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
-      <guid>https://OlgaBochkaryova.github.io/students/</guid>
-      <description>title: &amp;ldquo;Supervised students&amp;rdquo; Master theses: (expected) 2024 Mina Joseph Comparative genomics on skin~staphylococci in relation to atopic dermatitis, CMESS, UniWien, Austria. Co-supervisor: David Berry.&#xA;2023 Ekaterina Vostokova Comparative Genomics of Wolbachia spp. Skoltech, Moscow, Russia. Co-supervisor: Mikhail Gelfand. preprint&#xA;2019 Moldir Zhiyenbayeva Comparative Genomics of Bacillus spp.. HSE, Moscow, Russia. Co-supervisor: Mikhail Gelfand.&#xA;Bachelor theses: 2018 Natalia Dranenko Reconstruction of OxyR ancestor sequence in bacteria. MIPT, Moscow, Russia. Co-supervisor: Mikhail Gelfand.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://OlgaBochkaryova.github.io/teaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
-      <guid>https://OlgaBochkaryova.github.io/teaching/</guid>
-      <description>title: &amp;ldquo;Teaching&amp;rdquo; University courses Term course &amp;lsquo;Comparative Genomics of Prokaryotes&amp;rsquo;&#xA;The course covers basic and advanced topics of comparative genomics necessary for deep analysis of bacterial genomes such as genomic databases, functional annotation and orthologs prediction, pangenomics, phylogenetic analysis, prediction of regulatory elements, annotation of genomic rearrangements, and ancestral reconstruction. The lectures include an overview of the biological processes and models, summary of popular approaches and software and scientific context and recent papers in the field.</description>
     </item>
     <item>
       <title>Collection of tools and packages for bacterial genomics</title>
@@ -50,6 +29,27 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
       <guid>https://OlgaBochkaryova.github.io/cookbook/</guid>
       <description>The initiative was started in Gelfand lab. I thank all colleagues for their suggetions and comments.&#xA;databases 💾 Data NCBI - a series of databases relevant to biotechnology and biomedicine and is an important resource for bioinformatics tools and services. Major databases include GenBank for DNA sequences and PubMed, a bibliographic database for biomedical literature. Other databases include the NCBI Epigenomics database. All these databases are available online through the Entrez search engine.</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>https://OlgaBochkaryova.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
+      <guid>https://OlgaBochkaryova.github.io/publications/</guid>
+      <description>Publications [ # &amp;ndash; equal contribution. ]&#xA;Peer-reviewed publications Alper Yurtseven, Sofia Buyanova, Amay A. Agrawal, Olga O. Bochkareva &amp;amp; Olga V. Kalinina. Machine learning and phylogenetic analysis improves predicting antibiotic resistance in M. tuberculosis BMC Microbiol 23, 404 (2023) (DOI) Maximilian Baumgartner, Rebecca Zirnbauer, Sabine Schlager, Daniel Mertens, Nikolaus Gasche, Barbara Sladek, Craig Herbold, Olga Bochkareva, Vera Emelianenko, Harald Vogelsang, Michaela Lang, Anton Klotz, Birgit Moik, Athanasios Makristathis, David Berry, Stefanie Dabsch, Vineeta Khare, Christoph Gasche.</description>
+    </item>
+    <item>
+      <title>Supervised students</title>
+      <link>https://OlgaBochkaryova.github.io/students/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
+      <guid>https://OlgaBochkaryova.github.io/students/</guid>
+      <description>Supervised students Master theses: (expected) 2024 Mina Joseph Comparative genomics on skin~staphylococci in relation to atopic dermatitis, CMESS, UniWien, Austria. Co-supervisor: David Berry.&#xA;2023 Ekaterina Vostokova Comparative Genomics of Wolbachia spp. Skoltech, Moscow, Russia. Co-supervisor: Mikhail Gelfand. preprint&#xA;2019 Moldir Zhiyenbayeva Comparative Genomics of Bacillus spp.. HSE, Moscow, Russia. Co-supervisor: Mikhail Gelfand.&#xA;Bachelor theses: 2018 Natalia Dranenko Reconstruction of OxyR ancestor sequence in bacteria. MIPT, Moscow, Russia. Co-supervisor: Mikhail Gelfand.</description>
+    </item>
+    <item>
+      <title>Teaching</title>
+      <link>https://OlgaBochkaryova.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>olga.bochkareva@ist.ac.at (Olga Bochkareva)</author>
+      <guid>https://OlgaBochkaryova.github.io/teaching/</guid>
+      <description>Teaching University courses Term course &amp;lsquo;Comparative Genomics of Prokaryotes&amp;rsquo;&#xA;The course covers basic and advanced topics of comparative genomics necessary for deep analysis of bacterial genomes such as genomic databases, functional annotation and orthologs prediction, pangenomics, phylogenetic analysis, prediction of regulatory elements, annotation of genomic rearrangements, and ancestral reconstruction. The lectures include an overview of the biological processes and models, summary of popular approaches and software and scientific context and recent papers in the field.</description>
     </item>
   </channel>
 </rss>
